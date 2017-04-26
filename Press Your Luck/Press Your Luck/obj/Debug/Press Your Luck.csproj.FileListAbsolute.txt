@@ -1,0 +1,14 @@
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\bin\Debug\Press Your Luck.exe.config
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\bin\Debug\Press Your Luck.exe
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\bin\Debug\Press Your Luck.pdb
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press Your Luck.csprojResolveAssemblyReference.cache
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press_Your_Luck.About.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press_Your_Luck.GameScreen.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press_Your_Luck.Instructions.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press_Your_Luck.Properties.Resources.resources
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press Your Luck.csproj.GenerateResource.Cache
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press Your Luck.exe
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck-ver2\Press Your Luck\obj\Debug\Press Your Luck.pdb
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck\Press Your Luck\bin\Debug\Press Your Luck.exe.config
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck\Press Your Luck\obj\Debug\Press Your Luck.exe
+C:\Users\Esther\Documents\Visual Studio 2015\Projects\Press Your Luck Revised\Press Your Luck\Press Your Luck\obj\Debug\Press Your Luck.pdb
